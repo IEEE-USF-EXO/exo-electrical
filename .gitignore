@@ -1,0 +1,18 @@
+# Secrets: never commit. Use the matching *.example file.
+.env
+secrets.h
+# OS and editor
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+~$*
+
+# PCB tool not yet recorded in the Technical Baseline. KiCad entries below; replace if another tool is chosen.
+*-backups/
+_autosave-*
+fp-info-cache
+*.lck
+*.kicad_prl
+# Fabrication output is regenerated; commit only released zips under pcb/releases/
+gerbers/
