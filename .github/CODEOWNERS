@@ -1,2 +1,11 @@
-# Replace placeholder with GitHub username before first push.
-* @luislopezrondon
+# CODEOWNERS. Org teams, not individual accounts.
+# Org convention Section 4: * is the project leads team; team paths are the owning team.
+# A team reference requires that team to hold write access on this repo.
+* @IEEE-USF-EXO/exo-leads
+/schematics/ @IEEE-USF-EXO/exo-electrical
+/pcb/ @IEEE-USF-EXO/exo-electrical
+/power/ @IEEE-USF-EXO/exo-electrical
+/sensors/ @IEEE-USF-EXO/exo-electrical
+/harness/ @IEEE-USF-EXO/exo-electrical
+/datasheets/ @IEEE-USF-EXO/exo-electrical
+/docs/ @IEEE-USF-EXO/exo-electrical
