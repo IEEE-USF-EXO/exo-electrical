@@ -93,8 +93,6 @@ Branch from `main`, open a pull request, get one approval from the code owner, m
 Native design files, bench logs, test data, photos, and vendor PDFs live in Drive. This repo holds exports, drawings, the BOM, code, and short summaries. PDF datasheets stay in Drive; `datasheets/` in this repo lists links.
 
 Electrical: https://drive.google.com/drive/folders/1WLCSZ5bMisg1GjJH-oVJhsXjM938elaR
-Test Data: https://drive.google.com/drive/folders/13es75tDzfmytLOVGTCx-Fzi8i27h2tc4
-Datasheets: https://drive.google.com/drive/folders/1lus-nHfzwbKOzzeUaEaSJ4TFtPrU0xcQ
 
 Sub-team folders inside the Electrical folder:
 - System Architecture and Controls: https://drive.google.com/drive/folders/1J7P0P-SUsW-VQyd97wpCKYaZaU6DKhKf
